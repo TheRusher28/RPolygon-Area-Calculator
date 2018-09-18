@@ -1,3 +1,3 @@
 # RPolygon-Area-Calculator
-This mini-project is a Program that calculates you all the regular polygons area that you want 
-PD: I am a begginer and I'll upload here the projects that I do sometimes :)
+Este mini projecto puede calcular el area de la mayoría de formas geométricas regulares
+PD: soy un programador novato, voy a ir subiendo cositas que vaya haciendo mientras voy aprendiendo
