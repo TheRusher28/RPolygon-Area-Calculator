@@ -1,3 +1,7 @@
+__author__ = 'TheRusher28'
+__mantainer__ = 'TheRusher28'
+__email__ = 'therusher28@gmail.com'
+__status__ = 'Beginner'
 
 operation = input("What geometric shape do you need calculate? ")
 if operation == 'Triangle':
